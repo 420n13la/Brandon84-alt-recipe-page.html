@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Manjari&display=swap');
 
 body {
-  background-color: lightblue;
+  background-color: purple;
 }
 
 h1 {
@@ -15,9 +15,12 @@ h1 {
 h2 {
   color: blue;
   text-align: left;
+  border: solid green
 }
 
 p {
   font-size: 20px;
+  border: dotted orange
+
 }
 </style>
